@@ -1,2 +1,5 @@
 # hello-world-2
-My second repository
+
+Hi People!
+
+My name is Corto Maltese and i like GitHub.
